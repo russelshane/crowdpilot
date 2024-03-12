@@ -1,3 +1,3 @@
 # Database
 
-Do not attach diagram here. - Dars
+Where we run our migrations and initialize our database.
