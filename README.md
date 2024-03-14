@@ -31,7 +31,7 @@ CrowdPilot is the product of the months-long collaborative effort for the Commun
 | Development Team                             | Darsler Russel Shane Fortes<br/> Nandy Nario<br/> Vaughn Gabrielle Tinte<br/>Vince Gabriel D. Torres<br/> |
 | Testing Team                                 | Jim Dale V. Vinas<br />Development Team                                                                   |
 | Development Operations                       | Darsler Russel Shane Fortes<br />John Aaron Tumangan                                                      |
-| Documentation Team                           | Lee Parker D. Parantar<br />Eduardo Julius Rosales<br />Robert B. Socobos                                 |
+| Documentation Team                           | Lee Parker D. Parantar<br />Eduardo Julius Rosales<br />Ropert B. Socobos                                 |
 
 # Documentation
 
