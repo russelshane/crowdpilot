@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+* {
+  transition: 0.1s ease-in-out;
+}
+
+.headline {
+  background: -webkit-linear-gradient(0deg, #21463e -20%, #7c9b9c 120%);
+  -webkit-background-clip: text; /* apply background clip */
+  -webkit-text-fill-color: transparent;
+}
+
+.blob-1 {
+  position: fixed;
+  width: 280px;
+  height: 280px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: 15%;
+  left: 0;
+  margin-left: -80px;
+  background-image: url(https://ik.imagekit.io/drs/crowdpilot/assets/blob-1_3WnAV_JZW.png?updatedAt=1710352537116);
+}
+
+.blob-2 {
+  position: fixed;
+  width: 380px;
+  height: 280px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: 25%;
+  right: 0;
+  margin-right: -150px;
+  background-image: url(https://ik.imagekit.io/drs/crowdpilot/assets/blob-2_5TyQprbir.png?updatedAt=1710352537085);
+}

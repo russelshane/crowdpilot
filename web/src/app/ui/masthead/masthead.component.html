@@ -1,0 +1,76 @@
+<!-- Masthead Component -->
+<header class="w-full flex justify-center">
+  <div
+    class="py-6 px-6 flex gap-4 max-w-6xl w-full h-24 items-center justify-between xl:px-0"
+  >
+    <div class="flex gap-4 items-center">
+      <img
+        src="https://ik.imagekit.io/drs/crowdpilot/assets/Logo%20Accent%20SVG%20CrowdPilot_9EaH70mmS.svg?updatedAt=1710340228811"
+        alt="Join and create personalized community experiences."
+        class="w-48 object-contain cursor-pointer hover:opacity-75"
+      />
+      <nav class="mx-3 hidden lg:block">
+        <ul
+          class="p-0 m-0 list-none text-asphalt flex gap-3 cursor-pointer font-semibold text-sm"
+        >
+          <li class="hover:text-eucalyptus"><a routerLink="/">Home</a></li>
+          <li class="hover:text-eucalyptus">
+            <a routerLink="/experiences">Experiences</a>
+          </li>
+          <li class="hover:text-eucalyptus">
+            <a routerLink="/features">Features</a>
+          </li>
+          <li class="hover:text-eucalyptus" routerLink="/about">About</li>
+        </ul>
+      </nav>
+    </div>
+    <div class="flex gap-4 items-center">
+      <button
+        class="bg-white py-3 px-8 text-asphalt text-sm font-semibold cursor-pointer rounded-md hover:bg-ivory hidden lg:block"
+      >
+        Contact
+      </button>
+      <button
+        class="bg-hampton py-3 px-8 text-asphalt text-sm font-semibold cursor-pointer rounded-md hover:opacity-85 hidden lg:block"
+      >
+        Get Started
+      </button>
+      <button
+        class="bg-white p-3 text-asphalt text-sm font-semibold cursor-pointer rounded-md hover:bg-ivory lg:hidden"
+        (click)="menuActive = true"
+      >
+        <lucide-angular name="menu" class="my-icon"></lucide-angular>
+      </button>
+    </div>
+  </div>
+</header>
+
+@if(menuActive){
+<header class="w-full h-full fixed top-0 bottom-0 flex justify-between">
+  <nav
+    class="bg-white p-6 flex flex-col justify-between h-full basis-4/5 shadow-lg"
+  >
+    <div></div>
+    <ul
+      class="p-0 m-0 list-none text-asphalt flex flex-col gap-8 cursor-pointer font-semibold text-2xl"
+    >
+      <li class="hover:text-eucalyptus"><a routerLink="/">Home</a></li>
+      <li class="hover:text-eucalyptus">
+        <a routerLink="/experiences">Experiences</a>
+      </li>
+      <li class="hover:text-eucalyptus">
+        <a routerLink="/features">Features</a>
+      </li>
+      <li class="hover:text-eucalyptus" routerLink="/about">About</li>
+    </ul>
+
+    <span class="text-ash text-md font-medium"
+      >Copyright &copy; 2024 CrowdPilot</span
+    >
+  </nav>
+  <div
+    class="basis-1/5 bg-hampton bg-opacity-60"
+    (click)="menuActive = false"
+  ></div>
+</header>
+}
