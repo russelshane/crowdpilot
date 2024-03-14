@@ -21,17 +21,17 @@ CrowdPilot is the product of the months-long collaborative effort for the Commun
 
 # Team
 
-| Team Structure                               |                                                                                                           |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Project Manager                              | Lee Parker D. Parantar                                                                                    |
-| Project Analyst                              | Marc Ivan S. Rogero<br/> Vince Gabriel D. Torres                                                          |
-| Product Design                               | Darsler Russel Shane Fortes<br/> Casey D. Nojadera<br /> Lee Parker D. Parantar<br/>Zanty Ziella Alota    |
-| Technical Lead &<br/> Database Administrator | Darsler Russel Shane Fortes                                                                               |
-| Database Operations                          | Marc Ivan S. Rogero<br/> Vaughn Gabrielle Tinte                                                           |
-| Development Team                             | Darsler Russel Shane Fortes<br/> Nandy Nario<br/> Vaughn Gabrielle Tinte<br/>Vince Gabriel D. Torres<br/> |
-| Testing Team                                 | Jim Dale V. Vinas<br />Development Team                                                                   |
-| Development Operations                       | Darsler Russel Shane Fortes<br />John Aaron Tumangan                                                      |
-| Documentation Team                           | Lee Parker D. Parantar<br />Eduardo Julius Rosales<br />Robert B. Socobos                                 |
+| Team Structure                               |                                                                                                              |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Project Manager                              | Lee Parker D. Parantar                                                                                       |
+| Project Analyst                              | Marc Ivan S. Rogero<br/> Vince Gabriel D. Torres                                                             |
+| Product Design                               | Darsler Russel Shane S. Fortes<br/> Casey D. Nojadera<br /> Lee Parker D. Parantar<br/>Zanty Ziella M. Alota |
+| Technical Lead &<br/> Database Administrator | Darsler Russel Shane S. Fortes                                                                               |
+| Database Operations                          | Marc Ivan S. Rogero<br/> Vaughn Gabrielle Tinte                                                              |
+| Development Team                             | Darsler Russel Shane S. Fortes<br/> Nandy Nario<br/> Vaughn Gabrielle Tinte<br/>Vince Gabriel D. Torres<br/> |
+| Testing Team                                 | Jim Dale V. Vinas<br />Development Team                                                                      |
+| Development Operations                       | Darsler Russel Shane S. Fortes<br />John Aaron Tumangan                                                      |
+| Documentation Team                           | Lee Parker D. Parantar<br />Eduardo Julius Rosales<br />Ropert B. Socobos                                    |
 
 # Documentation
 
