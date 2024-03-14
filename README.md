@@ -25,7 +25,7 @@ CrowdPilot is the product of the months-long collaborative effort for the Commun
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Project Manager                              | Lee Parker D. Parantar                                                                                       |
 | Project Analyst                              | Marc Ivan S. Rogero<br/> Vince Gabriel D. Torres                                                             |
-| Product Design                               | Darsler Russel Shane S. Fortes<br/> Casey D. Nojadera<br /> Lee Parker D. Parantar<br/>Zanty Ziella Alota    |
+| Product Design                               | Darsler Russel Shane S. Fortes<br/> Casey D. Nojadera<br /> Lee Parker D. Parantar<br/>Zanty Ziella M. Alota |
 | Technical Lead &<br/> Database Administrator | Darsler Russel Shane S. Fortes                                                                               |
 | Database Operations                          | Marc Ivan S. Rogero<br/> Vaughn Gabrielle Tinte                                                              |
 | Development Team                             | Darsler Russel Shane S. Fortes<br/> Nandy Nario<br/> Vaughn Gabrielle Tinte<br/>Vince Gabriel D. Torres<br/> |
