@@ -3,6 +3,7 @@ import { LandingComponent } from './pages/landing/landing.component';
 import { ExperiencesComponent } from './pages/experiences/experiences.component';
 import { FeaturesComponent } from './pages/features/features.component';
 import { AboutComponent } from './pages/about/about.component';
+import { SignUpComponent } from './pages/sign-up/sign-up.component';
 
 export const routes: Routes = [
   // Landing page route. Do not add components inside to the app
@@ -22,5 +23,9 @@ export const routes: Routes = [
   {
     path: 'about',
     component: AboutComponent,
+  },
+  {
+    path: 'sign-up',
+    component: SignUpComponent,
   },
 ];

@@ -7,13 +7,25 @@ import {
   Menu,
   Search,
   CalendarSearch,
+  UserRound,
+  Mail,
+  SquareAsterisk,
+  MoveRight,
 } from 'lucide-angular';
 
 export const appConfig: ApplicationConfig = {
   providers: [
     provideRouter(routes),
     importProvidersFrom(
-      LucideAngularModule.pick({ Menu, Search, CalendarSearch })
+      LucideAngularModule.pick({
+        Menu,
+        Search,
+        CalendarSearch,
+        UserRound,
+        Mail,
+        SquareAsterisk,
+        MoveRight,
+      })
     ),
   ],
 };
