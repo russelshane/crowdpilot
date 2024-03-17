@@ -16,7 +16,7 @@ Our team decided to take the step further and build our application with feature
 
 | File Structure |                                                |
 | -------------- | ---------------------------------------------- |
-| api            | Service running our core applications          |
+| api            | Microservice running our core applications     |
 | db             | Database migrations and initialization scripts |
 | documentation  | Project documents                              |
 | web            | Angular frontend                               |
