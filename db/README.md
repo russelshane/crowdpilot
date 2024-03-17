@@ -8,6 +8,13 @@
 
 # Database
 
-We are using 'golang-migrate' to run our database migrations and other database scripts.
+We are using "golang-migrate" to run our database migrations and other database scripts, where this tool reads migrations from "sources" and applies them in correct order to our staging and production databases.
 
-Where we run our migrations and initialize our database.
+Our fully-managed MySQL database is deployed on Amazon Web Services through RDS. However, we also do have a backup at CleverCloud for when things go wrong.
+
+### Docker usage
+
+```bash
+$ docker run -v {{ migration dir }}:/migrations --network host migrate/migrate
+    -path=/migrations/ -database postgres://localhost:5432/database up 2
+```
