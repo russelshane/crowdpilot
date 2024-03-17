@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { LucideAngularModule } from 'lucide-angular';
 
 @Component({
@@ -6,7 +7,7 @@ import { LucideAngularModule } from 'lucide-angular';
   standalone: true,
 
   // Import 'LucideAngularModule' for Lucide Icons to work
-  imports: [LucideAngularModule],
+  imports: [LucideAngularModule, RouterLink],
   templateUrl: './sign-up.component.html',
 })
 export class SignUpComponent {}

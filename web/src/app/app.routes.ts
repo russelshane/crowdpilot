@@ -4,8 +4,8 @@ import { ExperiencesComponent } from './pages/experiences/experiences.component'
 import { FeaturesComponent } from './pages/features/features.component';
 import { AboutComponent } from './pages/about/about.component';
 import { SignUpComponent } from './pages/sign-up/sign-up.component';
-import { UploadProfileComponent } from './pages/upload-profile/upload-profile.component';
-import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';  
+import { UploadProfileComponent } from './pages/sign-up/upload-profile/upload-profile.component';
+import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';
 
 export const routes: Routes = [
   // Landing page route. Do not add components inside to the app
@@ -31,12 +31,11 @@ export const routes: Routes = [
     component: SignUpComponent,
   },
   {
-    path: 'upload-profile',
+    path: 'sign-up/continue',
     component: UploadProfileComponent,
   },
   {
-    path: 'forgot-password',
+    path: 'auth/forgot-password',
     component: ForgotPasswordComponent,
-  }
- 
+  },
 ];
