@@ -12,6 +12,8 @@ import {
   SquareAsterisk,
   MoveRight,
   LockKeyhole,
+  Plus,
+  SquareCheck,
 } from 'lucide-angular';
 
 export const appConfig: ApplicationConfig = {
@@ -27,6 +29,8 @@ export const appConfig: ApplicationConfig = {
         SquareAsterisk,
         MoveRight,
         LockKeyhole,
+        Plus,
+        SquareCheck,
       })
     ),
   ],
