@@ -27,7 +27,7 @@ Our team decided to take the step further and build our application with feature
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Project Manager                              | Lee Parker D. Parantar                                                                                                         |
 | Project Analyst                              | Marc Ivan S. Rogero<br/> Vince Gabriel D. Torres                                                                               |
-| Product Design                               | Darsler Russel Shane S. Fortes<br/> Casey D. Nojadera<br /> Lee Parker D. Parantar<br/>Zanty Ziella M. Alota                   |
+| Product Design                               | Casey D. Nojadera<br />Darsler Russel Shane S. Fortes<br/> Lee Parker D. Parantar<br/>Zanty Ziella M. Alota                    |
 | Technical Lead &<br/> Database Administrator | Darsler Russel Shane S. Fortes                                                                                                 |
 | Database Operations                          | Marc Ivan S. Rogero<br/> Vaughn Gabrielle Tinte                                                                                |
 | Software Development & Testing Team          | Darsler Russel Shane S. Fortes<br/> Jim Dale V. Vinas<br />Nandy Nario<br/> Vaughn Gabrielle Tinte<br/>Vince Gabriel D. Torres |
